@@ -3,7 +3,7 @@
 Bu proje, Web Teknolojileri ve Programlama dersi içindir.
 
 ## Site Linki
-(https://senin-site.netlify.app)
+webtasarmodevi1.netlify.app
 
 ## Geliştirici
 - ad : Enes Celal Yavuz
