@@ -3,7 +3,7 @@
 Bu proje Web Teknolojileri ve Programlama dersi içindir.
 
 ## Site Linki
-[Bloga Git](https://senin-site.netlify.app)
+[Bloga Git](https://websitesidev.netlify.app/)
 
 ## Geliştirici
 - AD:Enes Celal Yavuz
